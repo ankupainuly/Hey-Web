@@ -1,7 +1,7 @@
 # About hey-web
 Hey-web is a chatting and image sharing web app created using react and firebase.The user can signup using Google Authentication (that logs in the user with default gmail id on the browser) or any other mail id with a login password.Then a public chat window can be used to share image and chat with all the other logged in users.
 
-# Here is the Android version of the app
+# To use this app on Android devices here is the Android version of the app
 https://github.com/ankupainuly/hey-android
 
 # Getting Started with Create React App
